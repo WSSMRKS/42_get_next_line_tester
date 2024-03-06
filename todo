@@ -1,0 +1,5 @@
+
+# [ ] Add multiple FDs to testcases.
+# [ ] check for 42 as standard buffer size.
+# [ ] check bonus files as well.
+# [ ] add propper printing
